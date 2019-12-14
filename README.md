@@ -1,3 +1,9 @@
+# Linux Command
+- mkdir
+- touch
+- mv
+- ls / ls -a
+
 # Basic Git Command
 - git init
 - git status
