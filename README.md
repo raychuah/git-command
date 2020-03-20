@@ -3,6 +3,7 @@
 - touch
 - mv
 - ls / ls -a
+- code
 
 # Basic Git Command
 - git init
